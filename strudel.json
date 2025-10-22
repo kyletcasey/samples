@@ -1,18 +1,10 @@
 {
 "_base":"https://raw.githubusercontent.com/kyletcasey/samples/",
-   "FB_Drums":["FB_Drums/Classic_Drum_-_1.wav","FB_Drums/Classic_Drum_-_14.wav","FB_Drums/Classic_Drum_-_6.wav","FB_Drums/Classic_Drum_-_10.wav","FB_Drums/Classic_Drum_-_2.wav","FB_Drums/Classic_Drum_-_7.wav","FB_Drums/Classic_Drum_-_11.wav","FB_Drums/Classic_Drum_-_3.wav","FB_Drums/Classic_Drum_-_8.wav",
-   "FB_Drums/Classic_Drum_-_12.wav","FB_Drums/Classic_Drum_-_4.wav","FB_Drums/Classic_Drum_-_9.wav","FB_Drums/Classic_Drum_-_13.wav","FB_Drums/Classic_Drum_-_5.wav"],
-   "Formation_Drums":["Formation_Drums/70BPM_Idm_Loop.wav","Formation_Drums/90BPM_Gilbert's_Song_Loop_filler.wav"],
-   "GSLA":["GSLA/Greetings_from_the_SLA_1974_Truncated.wav"],
-   "Omari_Drum_Loops":["Omari_Drum_Loops/android_funk.wav","Omari_Drum_Loops/gundam_fill_.wav","Omari_Drum_Loops/StampIt.wav","Omari_Drum_Loops/boyo.wav","Omari_Drum_Loops/random_fill.wav","Omari_Drum_Loops/the_crunch.wav","Omari_Drum_Loops/gentlefist.wav","Omari_Drum_Loops/soul'd.wav","Omari_Drum_Loops/when_i_see_ya.wav","Omari_Drum_Loops/get_mixed.wav","Omari_Drum_Loops/StampIt_ghost.wav","Omari_Drum_Loops/whoRu.wav"],
-   "Ovrkast_2_Breaks":["Ovrkast_2_Breaks/01_Filthy.wav","Ovrkast_2_Breaks/01_Filthy_as_f_.wav","Ovrkast_2_Breaks/02_Fun_Break.wav","Ovrkast_2_Breaks/02_Fun_Break_.wav","Ovrkast_2_Breaks/03_Indie_break.wav","Ovrkast_2_Breaks/03_Indie_break_.wav","Ovrkast_2_Breaks/04_Solid_Break.wav","Ovrkast_2_Breaks/04_Solid_Break_.wav","Ovrkast_2_Breaks/05_JUSTBCUZ_break.wav",
-      "Ovrkast_2_Breaks/05_JUSTBCUZ_break_.wav","Ovrkast_2_Breaks/06_Dusty_Crunchy_Ass_Break_(CHOP_THIS).wav","Ovrkast_2_Breaks/06_Dusty_Crunchy_Ass_Break_(CHOP_THIS)_.wav","Ovrkast_2_Breaks/07_Dusty_Wobbly_Ass_Break.wav","Ovrkast_2_Breaks/07_Dusty_Wobbly_Ass_Break_.wav"],
-   "Ovrkast_2_Drum_Loops":["Ovrkast_2_Drum_Loops/Hip_Hop_as_fuck_.wav","Ovrkast_2_Drum_Loops/Neat_Loop_.wav","Ovrkast_2_Drum_Loops/Tossed_Loop_.wav","Ovrkast_2_Drum_Loops/Hip_Hop_as_fuck.wav","Ovrkast_2_Drum_Loops/Neat_Loop.wav","Ovrkast_2_Drum_Loops/Tossed_Loop.wav","Ovrkast_2_Drum_Loops/Loose_Bounce_.wav","Ovrkast_2_Drum_Loops/Straight_Away_.wav","Ovrkast_2_Drum_Loops/Loose_Bounce.wav","Ovrkast_2_Drum_Loops/Straight_Away.wav"],
-   "Ovrkast_Drum_Loops":["Ovrkast_Drum_Loops/Drum_Loop_1_.wav","Ovrkast_Drum_Loops/Drum_Loop_slow_.wav","Ovrkast_Drum_Loops/Dusty_Stutter_Loop_.wav","Ovrkast_Drum_Loops/Drum_Loop_2_.wav","Ovrkast_Drum_Loops/Dusty_Loop_1_.wav","Ovrkast_Drum_Loops/Thin_Bouncy_LOop_.wav","Ovrkast_Drum_Loops/Drum_Loop_3_.wav","Ovrkast_Drum_Loops/Dusty_Loop_2_.wav","Ovrkast_Drum_Loops/Drum_Loop_5_.wav",
-      "Ovrkast_Drum_Loops/Dusty_Loop_3_.wav"],
-   "Serendipity_Drones_and_Pads":["Serendipity_Drones_and_Pads/Ambieeaernt_fields.wav","Serendipity_Drones_and_Pads/Eternal_filtering.wav","Serendipity_Drones_and_Pads/Just_chilling.wav","Serendipity_Drones_and_Pads/Death.wav","Serendipity_Drones_and_Pads/Sonice_pad.wav"],
-   "Still_Life_Drum_Loops":["Still_Life_Drum_Loops/WMD_Simple_Offset_Perc_78_bpm.wav","Still_Life_Drum_Loops/WMD_Low_key_uptempo_beat_110_bpm.wav","Still_Life_Drum_Loops/WMD_Slow_swing_beat_95_bpm.wav","Still_Life_Drum_Loops/WMD_Low_key_uptempo_beat_no_kick_110_bpm.wav"],
-   "Take_This_Break":["Take_This_Break/Takethisbreak_3-88BPM.wav","Take_This_Break/TakeThisBreak_4_86BPM.wav"],
-   "Voo_Breaks":["Voo_Breaks/additup.wav","Voo_Breaks/clickomode.wav","Voo_Breaks/outtatown.wav","Voo_Breaks/pop_pop.wav","Voo_Breaks/bounceback.wav","Voo_Breaks/hopscotch.wav","Voo_Breaks/pacemaker.wav","Voo_Breaks/rundown.wav","Voo_Breaks/bumpercar.wav","Voo_Breaks/oddoneout.wav","Voo_Breaks/peppy.wav","Voo_Breaks/yourelate.wav"],
-   "Vooo_full_compositions":["Vooo_full_compositions/behemoth_115bpm.wav","Vooo_full_compositions/no_matter_what_(tape)_65bpm.wav","Vooo_full_compositions/every_word_80bpm.wav","Vooo_full_compositions/RPM_(tape)_81bpm.wav"]
+   "3magic": ["3magic/3magic_guitar.wav","FB_Drums/Classic_Drum_-_14.wav","3magic/3magic_loop_1.wav"],
+   "donsurfbreak": ["donsurfbreak/donsurfbreak.wav"],
+   "powerconcentration": ["powerconcentration/powerofconcentration.mp3"],
+   "rangerbill": ["rangerbill/rangerbill.wav"],
+   "scion": ["scion/scion1.wav","scion/smile_marg_glasp.wav"],
+   "thaisample": ["thaisample/thaisample.wav"],
+   "youdontwantmebreak": ["youdontwantmebreak/youdontwantmebreak.wav"]
 }
