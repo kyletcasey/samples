@@ -1,11 +1,11 @@
 {
 "_base":"https://raw.githubusercontent.com/kyletcasey/samples/main/",
 
-   "3magic": "3magic/3magic_guitar.wav",
+   "3magic": ["3magic/3magic_guitar.wav", "3magic/3magic_loop_1.wav"]
    "donsurfbreak": "donsurfbreak/donsurfbreak.wav" ,
    "powerconcentration": "powerconcentration/powerofconcentration.mp3" ,
    "rangerbill": "rangerbill/rangerbill.wav" ,
-   "scion": "scion/smile_marg_glasp.wav" ,
+   "scion": ["scion/smile_marg_glasp.wav", "scion/scion1.wav"] ,
    "thaisample": "thaisample/thaisample.wav" ,
    "youdontwantmebreak": "youdontwantmebreak/youdontwantmebreak.wav"
    
