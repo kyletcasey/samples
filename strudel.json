@@ -7,6 +7,7 @@
    "rangerbill": "rangerbill/rangerbill.wav" ,
    "scion": "scion/smile_marg_glasp.wav" ,
    "thaisample": "thaisample/thaisample.wav" ,
-   "youdontwantmebreak": "youdontwantmebreak/youdontwantmebreak.wav"
-   
+   "youdontwantmebreak": "youdontwantmebreak/youdontwantmebreak.wav" ,
+   "cyandlee": ["cyandlee/cyandleeIA11chord.wav", "cyandlee/cyandleeIA11pulse.wav"]
+
 }
