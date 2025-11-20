@@ -8,6 +8,7 @@
    "scion": "scion/smile_marg_glasp.wav" ,
    "thaisample": "thaisample/thaisample.wav" ,
    "youdontwantmebreak": "youdontwantmebreak/youdontwantmebreak.wav" ,
+   "InnerSanctum": "InnerSanctum/InnerSanctum.wav",
    "cyandlee": ["cyandlee/cyandleeIA11chord.wav", "cyandlee/cyandleeIA11pulse.wav"]
 
 }
