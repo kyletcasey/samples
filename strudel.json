@@ -13,6 +13,7 @@
    "emahoygebru": "emahoygebru/emahoygebru.wav",
    "donsurf01122025": "donsurf01122025/donsurf01122025.wav",
    "makayablacklion": "makayablacklion/makayablacklion.wav",
+   "masinoallineed": ["masinoallineed/masinoallineed_break.wav", "masinoallineed/masinoallineed_mel.wav"],
    "bunchacdcwords": ["bunchacdcwords/bunchacdcwords1.mp3", "bunchacdcwords/bunchacdcwords2.mp3", "bunchacdcwords/bunchacdcwords3.mp3", "bunchacdcwords/bunchacdcwords4.mp3", "bunchacdcwords/bunchacdcwords5.mp3" ],
    "cyandlee": ["cyandlee/cyandleeIA11chord.wav", "cyandlee/cyandleeIA11pulse.wav"]
 
