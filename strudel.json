@@ -17,6 +17,30 @@
    "masinoallineed": ["masinoallineed/masinoallineed_break.wav", "masinoallineed/masinoallineed_mel.wav"],
    "dirtyprojectorsusefulchamber": "dirtyprojectorsusefulchamber/dirtyprojectorsusefulchamber.wav",
    "bunchacdcwords": ["bunchacdcwords/bunchacdcwords1.mp3", "bunchacdcwords/bunchacdcwords2.mp3", "bunchacdcwords/bunchacdcwords3.mp3", "bunchacdcwords/bunchacdcwords4.mp3", "bunchacdcwords/bunchacdcwords5.mp3" ],
+   "kayweight": [
+  "kayweight/Kayweight_kaytranweightoffchop_note60.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note61.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note62.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note63.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note64.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note65.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note66.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note67.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note68.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note69.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note70.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note71.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note72.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note73.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note74.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note75.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note76.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note77.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note78.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note79.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note80.wav",
+  "kayweight/Kayweight_kaytranweightoffchop_note81.wav"
+]
    "cyandlee": ["cyandlee/cyandleeIA11chord.wav", "cyandlee/cyandleeIA11pulse.wav"]
 
 }
