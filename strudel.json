@@ -13,7 +13,6 @@
    "emahoygebru": "emahoygebru/emahoygebru.wav",
    "viccanalelegy": "viccanalelegy/viccanalelegy.wav",
    "donsurf01122025": "donsurf01122025/donsurf01122025.wav",
-   "cindyleealliwant": "cindyleealliwant.wav",
    "makayablacklion": "makayablacklion/makayablacklion.wav",
    "masinoallineed": ["masinoallineed/masinoallineed_break.wav", "masinoallineed/masinoallineed_mel.wav"],
    "dirtyprojectorsusefulchamber": "dirtyprojectorsusefulchamber/dirtyprojectorsusefulchamber.wav",
@@ -41,6 +40,16 @@
   "kayweight/Kayweight_kaytranweightoffchop_note79.wav",
   "kayweight/Kayweight_kaytranweightoffchop_note80.wav",
   "kayweight/Kayweight_kaytranweightoffchop_note81.wav"
+],
+   "cindyleealliwant2": [
+"cindyleealliwant2/cindyleealliwant_cindyleealliwant_note60.wav",
+"cindyleealliwant2/cindyleealliwant_cindyleealliwant_note62.wav",
+"cindyleealliwant2/cindyleealliwant_cindyleealliwant_note64.wav",
+"cindyleealliwant2/cindyleealliwant_cindyleealliwant_note66.wav",
+"cindyleealliwant2/cindyleealliwant_cindyleealliwant_note61.wav",
+"cindyleealliwant2/cindyleealliwant_cindyleealliwant_note63.wav",
+"cindyleealliwant2/cindyleealliwant_cindyleealliwant_note65.wav",
+"cindyleealliwant2/cindyleealliwant_cindyleealliwant_note67.wav"
 ],
    "cyandlee": ["cyandlee/cyandleeIA11chord.wav", "cyandlee/cyandleeIA11pulse.wav"]
 
